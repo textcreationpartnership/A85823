@@ -1,0 +1,340 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An elegie upon the most lamented death of the Right Honourable and truly valiant, Robert Earle of Essex, &amp;c.</title>
+            <author>C. G.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85823</idno>
+            <idno type="STC">Wing G3</idno>
+            <idno type="STC">Thomason E360_1*</idno>
+            <idno type="STC">ESTC R201191</idno>
+            <idno type="EEBO-CITATION">99861726</idno>
+            <idno type="PROQUEST">99861726</idno>
+            <idno type="VID">113868</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85823)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113868)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 58:E360[1*])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An elegie upon the most lamented death of the Right Honourable and truly valiant, Robert Earle of Essex, &amp;c.</title>
+                  <author>C. G.</author>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: C.G.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>In verse.</note>
+                  <note>Signatures: A² .</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Essex, Robert Devereux, --  Earl of, 1591-1646 --  Poetry --  Early works to 1800.</term>
+               <term>Elegiac poetry, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="elegy">
+            <pb facs="tcp:113868:1"/>
+            <!-- PDF PAGE 48 -->
+            <pb facs="tcp:113868:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 48 -->
+            <head>An Elegie upon the moſt lamented death of the Right Honourable and truly valiant, ROBERT Earle of <hi>Eſſex, &amp;c.</hi>
+            </head>
+            <lg>
+               <l>I Thanke thee, Griefe, that thou haſt found a voice:</l>
+               <l>Some thinke there runs no ſtreame, where's heard no noiſe;</l>
+               <l>And yet Ile beare thee witneſſe, when there ſtood</l>
+               <l>No water in thine Eye, thy Heart wept Blood;</l>
+            </lg>
+            <lg>
+               <l>So may the ſtealing Brooke mourne under ground,</l>
+               <l>When on the ſurface, nought but Flint is found.</l>
+            </lg>
+            <lg>
+               <l>Advance my Teares then, and your Office bee</l>
+               <l>To bring the Reare up of this Obſequie.</l>
+            </lg>
+            <lg>
+               <l>A Reare of Mourners, which ſhall reach from hence</l>
+               <l>To Doomes-day, mourning not for Forme, but Senſe.</l>
+               <l>We now but ſee the Pompe; but after times</l>
+               <l>Shall make us feele our Loſſe, due to our-Crimes;</l>
+               <l>VVhen Monarchy ſhall-faint, and Faction thrive,</l>
+               <l>How ſhall we then wiſh <hi>Devereux</hi> alive?</l>
+               <l>VVhen there is none to dry up Widdowes Teares;</l>
+               <l>None to Repulſe our Jealouſies and Feares:</l>
+               <l>When Juſtice ſelfe ſhall want an Advocate,</l>
+               <l>And truth in coward ſilence read her Fate;</l>
+               <l>When thoſe daies come, (O never come thoſe Daies;</l>
+               <l>Never to us!) that he ſhall weare the Bayes,</l>
+               <l>And be accounted valiant, who ſhall dare</l>
+               <l>To whiſper Truth, though onely to the Aire:</l>
+               <l>When the meane Feet ſhall trample ore the Head;</l>
+               <l>How ſhall we then feele <hi>Devereux</hi> is dead?</l>
+               <l>
+                  <hi>Devereux,</hi> the Nobles Orbe, the Gentries Starr,</l>
+               <l>The Cities Altar, the wrong'd Countries Barr:</l>
+               <l>
+                  <hi>Devereux,</hi> the Juſt, <hi>Devereux,</hi> the Stout, the Wiſe,</l>
+               <l>The maimed Souldiers Limbes, the Blind mans Eyes.</l>
+               <l>The Armies faithfull Alm'ner; or what's more</l>
+               <l>
+                  <hi>Devereux,</hi> the very <hi>Devereux</hi> of their Poore;</l>
+            </lg>
+            <lg>
+               <l>Yet he, this Cedar's fall'n: or rather, is</l>
+               <l>Tranſplanted, for to grow in Paradiſe.</l>
+            </lg>
+            <lg>
+               <l>How the Ghoſts throng to ſee their great new Ghueſt;</l>
+               <l>
+                  <hi>Talbot, Vere, Norris, Williams,</hi> and the reſt,</l>
+               <l>
+                  <pb facs="tcp:113868:2"/>
+                  <!-- PDF PAGE 49 -->
+Thoſe valiant Shades, England's beſt Sonnes! each one</l>
+               <l>Courting Him to then Bowers; (Bowers, whereof none</l>
+               <l>But was of conquering <hi>Laurell</hi>) there to heare</l>
+               <l>A ſtorie, which would force from Ghoſts a Teare.</l>
+               <l>(Their Mothers Tragedy) as 'twas acted late</l>
+               <l>By her owne Children, to make ſport for Fate;</l>
+            </lg>
+            <lg>
+               <l>For they had ſeen the Stygian Boats e'vn ſinke,</l>
+               <l>Laden with Soules up to the very brinke;</l>
+               <l>Had known their Charon tugg and ſweat, and ſay;</l>
+               <l>England did find him moſt work and beſt pay.</l>
+            </lg>
+            <lg>
+               <l>He (the new Ghueſt) who (ſince he did afford</l>
+               <l>To hold in peace the Scales, in War the Sword,</l>
+               <l>Could therefore give beſt Judgment: the pure ſtampe</l>
+               <l>How things'ith Senate paſſ'd, how in the Camp:)</l>
+               <l>Diſſects the Body politique, and with weight</l>
+               <l>Laies ope the Griefes and Maladies of State.</l>
+            </lg>
+            <lg>
+               <l>Shewes how thoſe hands that held the Scales were numb,</l>
+               <l>And how that Tongue which ſhould preach Peace was dumb;</l>
+               <l>The Feet (ſaith He) went ſtaggering, and 'tis ſed,</l>
+               <l>Some Clouds and Vapours did poſſeſſe the Head,</l>
+               <l>Whoſe little ſinger, had the poyſon mov'd,</l>
+               <l>Heavier then all his Fathers Loynes had prov'd;</l>
+               <l>The Eyes grew dim and darkiſh, whiles the Eare</l>
+               <l>Deafe to ſage Counſell, yet ſtrange Tales could heare;</l>
+               <l>And the whole Frame did ſo with Feaver burne,</l>
+               <l>Feaver might ſerve for Piles to fill the Urne;</l>
+               <l>And England mouldring thus through Feaveriſh Ire,</l>
+               <l>Save Heaven the labour of a Doomes-day Fire.</l>
+               <l>All now was turning into Aſhes: ſo</l>
+               <l>Conſuming Flames Incendiaries blow.</l>
+            </lg>
+            <lg>
+               <l>Hence Englands beſt Phyſitians judg'd it need</l>
+               <l>(To ſave the Body) that ſome veines ſhould bleed;</l>
+               <l>Surgeons from all parts come to work the Cure</l>
+               <l>(She now was patient and muſt all endure.)</l>
+               <l>Leeches and Emp'ricks (Colledge fulls) all came,</l>
+               <l>To cure? no, but to practiſe on their Dame.</l>
+               <l>And thus they let her bleed too much: ſo they</l>
+               <l>Can gaine, no matter though ſhe bloodleſſe lay.</l>
+            </lg>
+            <lg>
+               <l>Yet ſome there came, Artiſts, and honeſt too;</l>
+               <l>Men that without a plot their work would do:</l>
+               <l>
+                  <pb facs="tcp:113868:2"/>
+                  <!-- PDF PAGE 49 -->
+Men, that to ſtop her blood, their own did give,</l>
+               <l>And paid their Deathleſſe Lives to make her live.</l>
+               <l>So ſharp a Pill is War, that ſome have thought.</l>
+               <l>Even Health it ſelfe, at this price, too deare bought;</l>
+               <l>Phyſick on a Swords point can ſeldome pleaſe,</l>
+               <l>Men count ſuch Remedies worſe then the Diſeaſe.</l>
+            </lg>
+            <lg>
+               <l>And thus as he was blazning States, and Men,</l>
+               <l>Perſons, and Things, the Cauſe; why? how? and when?</l>
+               <l>Still paſſing ore Himſelfe, as if he were,</l>
+               <l>Though others Trumpet, His own Silencer:</l>
+               <l>Still his own Mute, whilſt yet he Trumpets forth</l>
+               <l>Great <hi>Warwicks,</hi> and <hi>Northumberlands</hi> great Worth.</l>
+               <l>VVith other Heroes plac'd in high Command,</l>
+               <l>
+                  <hi>Neptunes</hi> at Sea, and <hi>Marses</hi> on the Land;</l>
+            </lg>
+            <lg>
+               <l>But who was He, cry'd ſome, (not but they knew:</l>
+               <l>But that they long'd to heare thoſe geſts anew</l>
+               <l>Which they ſo dearly lov'd) who's he that fought</l>
+               <l>So much for Peace 'bove Victory? that thought</l>
+               <l>The bloodleſſe Bayes the beſt? He that aim'd moe</l>
+               <l>To ſave one Citizen, then kill many a Foe?</l>
+               <l>He that knew how to value Lives? the Man,</l>
+               <l>So much good Souldier, and good Chriſtian;</l>
+               <l>That kill'd and ſigh'd, mourn'd as he Trophies wore,</l>
+               <l>Mingling his own Teares with his Enemies gore?</l>
+               <l>As if his Grand Commiſſion did not give</l>
+               <l>Him power to kill and ſlay, but kill and grieve.</l>
+            </lg>
+            <lg>
+               <l>And yet agen, that moſt undaunted Hee,</l>
+               <l>(When th'Armies were to joyne, to diſagree)</l>
+               <l>VVho ſpeech'd his Souldiers firſt with Voyce and Drum,</l>
+               <l>Then <hi>Caeſar</hi>-like bad them, not go, but come?</l>
+               <l>He, who Himſelfe an Army was alone!</l>
+               <l>He, who was then moſt Generall, when yet none?</l>
+               <l>And had whole Legions ever at his need,</l>
+               <l>Legions of Souldiers not to Fight, but Feed:</l>
+            </lg>
+            <lg>
+               <l>Yea but who's He, cry'd one among the throng.</l>
+               <l>That with ſo few men rais'd a Siege ſo ſtrong?</l>
+               <l>That made Retreat from twice his odds, the while,</l>
+               <l>As he Retreated, fighting, threeſcore mile?</l>
+               <l>And this, not through fenc'd Lanes, and in thick nights,</l>
+               <l>The Downes and Midday Sun ſaw all his fights.</l>
+               <l>
+                  <pb facs="tcp:113868:3"/>
+                  <!-- PDF PAGE 50 -->
+An honour, we could envy, could this place</l>
+               <l>(Loves Throne) admit a wrinckled Heart or Face.</l>
+            </lg>
+            <lg>
+               <l>VVith that, ſome Cavalier Ghoſts (for there come</l>
+               <l>Of them to reſt here in Elyſium)</l>
+               <l>The Learned <hi>Faulkland,</hi> and <hi>Carnarvan</hi> ſtout,</l>
+               <l>Fierce <hi>Lindſey,</hi> (Spartan ſhades, above the Rout;)</l>
+               <l>Such as had paid him Homage with their Blood,</l>
+               <l>And fallen his Sacrifices, when he ſtood</l>
+               <l>Pointed at our deare loſſe, and faid; all this,</l>
+               <l>And more is <hi>Devereux;</hi> this, and more is His;</l>
+               <l>Which made him bluſh; His pale Ghoſt bluſh'd; and then</l>
+               <l>He look'd, as if he had been alive agen.</l>
+            </lg>
+            <lg>
+               <l>But when ſuch prayſes even from Enemies come,</l>
+               <l>It were a ſin in us, ſhould we ſtand dumbe?</l>
+            </lg>
+            <lg>
+               <l>And is't not pitty ſo Fam'd worth ſhould dye</l>
+               <l>Without an Heire? No Sonne to cloſe his Eye?</l>
+               <l>No Child to weare his vertue with his Name?</l>
+               <l>None to inherit his well-gotten Fame?</l>
+               <l>But as great' <hi>Paminondas</hi> anſwered thoſe</l>
+               <l>His Friends, that mourn'd his Fall, (mourn'd by his Foes)</l>
+               <l>'Cauſe he fell Childleſſe; as if <hi>Greece</hi> were done</l>
+               <l>Since ſo much vertue dyed without a Sonne:</l>
+               <l>But yet (ſaith He) ſtill beare it in your mind,</l>
+               <l>I've left two Daughters with you here behind,</l>
+               <l>
+                  <hi>Leuctra</hi> and <hi>Mantinea;</hi> who ſhall keep</l>
+               <l>Their Fathers Name from Death, and <hi>Thebes</hi> from ſleep;</l>
+               <l>So when our <hi>Devereux,</hi> (<hi>Devereux,</hi> a word</l>
+               <l>Great as that Greek's, and keener then his Sword:</l>
+               <l>A Name that fils the Mouth, and wounds the Eare:</l>
+               <l>A Name that <hi>Machiavell</hi> would be pleas'd to heare.</l>
+               <l>He, who admires the Pagans large-ſiz'd Name</l>
+               <l>'Bove Chriſtians; as if words could create Fame.)</l>
+               <l>So when our <hi>Devereux</hi> is bemoan'd in Death,</l>
+               <l>As one that leaves no Sonne to breath his Breath,</l>
+               <l>Anſwer is made, He leaves two Daughters faire,</l>
+               <l>
+                  <hi>Reading</hi> and <hi>Gloceſter,</hi> Daughters ſuch as are</l>
+               <l>Sans parallell; and which will coſt the State</l>
+               <l>Millions to match them with an equall Mate.</l>
+               <l>Or ſhould this Iſſue faile, yet how can He</l>
+               <l>Want Sonnes and Heires, who's <hi>Pater Patriae.</hi>
+               </l>
+            </lg>
+            <closer>
+               <signed>C. G.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:113868:3"/>
+            <!-- PDF PAGE 50 -->
+         </div>
+      </body>
+   </text>
+</TEI>
